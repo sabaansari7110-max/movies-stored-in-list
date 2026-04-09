@@ -3,7 +3,7 @@
 # Description:
  This project stores mmovie names in a list and shows how multiple values can be kept values can be kept together in one place for easy use.
 
-#features:
+# features:
 <br>
 1.Stores multple movie names in a single list.
 <br>
@@ -19,7 +19,7 @@
 <br>
 3.Movies can be displayed one by one or all together.
 
-#Example output:
+# Example output:
 <br>
 movies list-
 <br>
@@ -31,7 +31,7 @@ movies list-
 <br>
 4.joker
 
-#What I Learned:
+# What I Learned:
 <br>
 1.How to stores multiple values in one variable.
 <br>
